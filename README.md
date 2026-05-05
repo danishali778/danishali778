@@ -1,147 +1,104 @@
-
-
 # Hi, I'm Danish Ali 👋
 
-I am an **AI/ML, GenAI, and Full-Stack Developer** focused on building **Agentic AI systems, AI agents, RAG applications, LLM tools, and full-stack AI products**.
+I'm an AI-focused Full-Stack and Backend Developer building practical GenAI products using **Python, FastAPI, React, TypeScript, RAG, LLM tools, and AI agents**.
 
-I enjoy creating practical AI-powered applications that combine **LLMs, tool-calling, retrieval systems, automation workflows, databases, APIs, dashboards, and user-friendly web interfaces**.
+I enjoy building systems where LLMs can retrieve knowledge, use tools, interact with databases, automate workflows, and power real-world applications.
 
-My goal is to build intelligent software that does more than just respond — systems that can reason, use tools, retrieve knowledge, automate workflows, and solve real-world problems.
-
----
-
-## 🚀 What I Work On
-
-- Agentic AI systems and AI-powered automation workflows
-- AI agents with tool-calling and structured reasoning
-- Retrieval-Augmented Generation applications
-- LLM tools, function-calling systems, and reusable agent utilities
-- Full-stack AI applications using React, TypeScript, and FastAPI
-- Backend APIs, database integration, and dashboard-based products
-- Machine Learning experiments and applied AI systems
+Currently, I am focused on **Agentic AI, RAG systems, LLM tool/function calling, full-stack AI products, and backend engineering**.
 
 ---
 
-## 🧠 Areas of Interest
+## 🚀 What I Build
 
-- Agentic AI
-- AI Agents
-- Large Language Models
-- RAG Systems
-- LLM Tool Use
-- Function Calling
-- Multi-Agent Systems
-- Full-Stack AI Products
-- Backend Engineering
-- Machine Learning
-- Automation Workflows
+- AI agents and tool-calling systems
+- RAG applications with source-grounded responses
+- Full-stack AI products with React, TypeScript, and FastAPI
+- Backend APIs for LLM and data-driven applications
+- Natural-language interfaces for databases and dashboards
+- Applied machine learning and automation workflows
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-Python, JavaScript, TypeScript, SQL
+**Languages:** Python, JavaScript, TypeScript, SQL
 
-### AI / ML / GenAI
-LangChain, LangGraph, LlamaIndex, RAG, AI Agents, Tool Calling, LLM Applications, Machine Learning
+**AI / GenAI:** LangChain, LangGraph, LlamaIndex, RAG, AI Agents, Tool Calling, LLM Applications
 
-### Backend
-FastAPI, REST APIs, Supabase, PostgreSQL, API Integration
+**Backend:** FastAPI, REST APIs, PostgreSQL, Supabase, SQLAlchemy, API Integration
 
-### Frontend
-React, TypeScript, TailwindCSS, Recharts
+**Frontend:** React, TypeScript, TailwindCSS, Recharts
 
-### Tools & Platforms
-Git, GitHub, Docker, ChromaDB, VS Code
+**Tools:** Git, GitHub, Docker, ChromaDB, Pytest, Ruff, VS Code
 
 ---
 
-## 🚀 Featured Projects
+## ⭐ Featured Projects
 
-### 🔹 InsightAI — Natural Language BI Platform
-A full-stack AI-powered business intelligence platform where users can connect databases, ask questions in natural language, generate SQL queries, and visualize results through interactive dashboards.
+### 🔹 [InsightAI](https://github.com/danishali778/InsightAI)
+A full-stack AI-powered business intelligence platform where users can connect databases, ask questions in natural language, generate SQL queries, and visualize results through dashboards.
 
-**Key Highlights:**
-- Converts natural language questions into SQL queries
-- Uses AI agents for query reasoning and workflow handling
-- Provides interactive dashboard visualizations
-- Combines backend APIs, database workflows, and frontend UI
+**Highlights:**
+- Natural language to SQL query generation
+- AI-agent-based query reasoning workflow
+- Database connection and dashboard management
+- Interactive frontend visualizations
 
 **Tech:** React, TypeScript, FastAPI, LangGraph, Supabase, Recharts, Groq/OpenAI-compatible LLMs
 
 ---
 
-### 🔹 RAG Financial Analyst
-A RAG-based financial analysis system for SEC filings with table extraction, financial ratio calculation, comparative reasoning, and source-backed responses.
+### 🔹 [RAG Financial Analyst](https://github.com/danishali778/rag-financial-analyst)
+A RAG-based financial analysis system for SEC filings with document retrieval, table extraction, financial ratio analysis, and source-backed responses.
 
-**Key Highlights:**
-- Retrieves information from financial documents
-- Handles structured and semi-structured financial data
-- Supports financial reasoning and ratio-based analysis
-- Provides source-grounded responses
+**Highlights:**
+- Retrieves answers from financial documents
+- Handles structured and semi-structured data
+- Supports ratio-based financial reasoning
+- Provides grounded responses with source context
 
 **Tech:** FastAPI, LlamaIndex, LlamaParse, ChromaDB, Groq, React
 
 ---
 
-### 🔹 llm-tools-kit
-A Python toolkit for building safe and reusable tools for LLM agents.
+### 🔹 [llm-tools-kit](https://github.com/danishali778/llm-tools-kit)
+A Python toolkit for building safe, reusable tools for LLM agents and function-calling workflows.
 
-**Key Highlights:**
-- Typed tool schemas
+**Highlights:**
+- Typed tool schemas using Pydantic
 - Tool registry and executor
 - Gemini function declaration adapter
-- JSON utilities and text-processing helpers
-- Secret redaction and safer local file utilities
+- Utility tools for JSON, text processing, and local files
+- Secret redaction and safer tool execution patterns
 
 **Tech:** Python, Pydantic, Pytest, Ruff
 
 ---
 
-### 🔹 Thrifty Router
-An LLM routing system that sends simple queries to fast/cheap models and complex queries to stronger reasoning models.
+### 🔹 [BDPP-IoT Secure Data Transaction](https://github.com/danishali778/BDPP-IoT-Secure-Data-Transaction)
+A blockchain-based privacy-preserving IoT data transaction framework combining smart contracts, IPFS, encryption, access control, and ML-based pricing.
 
-**Key Highlights:**
-- Routes queries based on complexity
-- Optimizes cost, latency, and response quality
-- Supports comparison between model responses
-- Useful for scalable LLM application design
+**Highlights:**
+- Designed a secure IoT data-sharing workflow using blockchain and IPFS
+- Implemented privacy-preserving access-control and revocation concepts
+- Added CKKS-style error-bound reporting for encrypted computation reliability
+- Used ML-based dynamic pricing for IoT data transactions
+- Generated experimental results, ablation studies, and architecture diagrams
 
-**Tech:** Python, LLM Routing, LangSmith, FastAPI
+**Tech:** Python, Solidity, Ganache, IPFS, TenSEAL/CKKS, Machine Learning
 
----
+## 🎯 Current Focus
 
-## 🎯 Currently Focused On
-
-- Building production-ready Agentic AI and full-stack AI applications
+- Building production-ready GenAI and full-stack AI applications
 - Improving RAG pipelines and AI agent workflows
 - Creating reusable LLM tools and function-calling systems
-- Strengthening backend engineering with FastAPI
-- Improving frontend development with React, TypeScript, and TailwindCSS
-- Preparing for AI Engineer, GenAI Developer, Full-Stack Developer, and Python Backend roles
-
----
-
-## 📌 Career Direction
-
-I am currently focused on growing as a developer in the areas of **Agentic AI, GenAI applications, full-stack AI products, backend engineering, and applied machine learning**.
-
-I am especially interested in roles where I can work on:
-
-- AI-powered SaaS products
-- LLM-based applications
-- RAG and agentic workflows
-- Backend systems for AI products
-- Full-stack web applications
-- Automation and intelligent workflow systems
+- Strengthening backend engineering with FastAPI, PostgreSQL, Docker, and testing
+- Preparing for AI Engineer, GenAI Developer, Python Backend, and Full-Stack Developer roles
 
 ---
 
 ## 📫 Connect With Me
 
-**GitHub:** [github.com/danishali778](https://github.com/danishali778)  
-**LinkedIn:** [linkedin.com/in/danish-ali-dev](https://www.linkedin.com/in/danish-ali-dev/)  
-**Email:** [danish.ali.73400@gmail.com](mailto:danish.ali.73400@gmail.com)
-
-
+- GitHub: [github.com/danishali778](https://github.com/danishali778)
+- LinkedIn: [linkedin.com/in/danish-ali-dev](https://linkedin.com/in/danish-ali-dev)
+- Email: danish.ali.73400@gmail.com
