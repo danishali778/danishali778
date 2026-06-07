@@ -35,7 +35,7 @@ Currently, I am focused on **Agentic AI, RAG systems, LLM tool/function calling,
 
 ## ⭐ Featured Projects
 
-### 🔹 [InsightAI](https://github.com/danishali778/InsightAI)
+### 🔹 [QueryMind](https://github.com/danishali778/query-mind)
 A full-stack AI-powered business intelligence platform where users can connect databases, ask questions in natural language, generate SQL queries, and visualize results through dashboards.
 
 **Highlights:**
