@@ -48,44 +48,37 @@ A full-stack AI-powered business intelligence platform where users can connect d
 
 ---
 
-### 🔹 [RAG Financial Analyst](https://github.com/danishali778/rag-financial-analyst)
-A RAG-based financial analysis system for SEC filings with document retrieval, table extraction, financial ratio analysis, and source-backed responses.
+### 🔹 [Multi_Model_RAG](https://github.com/danishali778/multi-model-rag)
+A structure-aware document retrieval system designed to generate accurate, source-grounded answers from complex PDFs while preserving their natural hierarchy and content structure.
 
 **Highlights:**
-- Retrieves answers from financial documents
-- Handles structured and semi-structured data
-- Supports ratio-based financial reasoning
-- Provides grounded responses with source context
+- Parses complex PDF documents using Docling
+- Preserves headings, paragraphs, tables, equations, and section hierarchy
+- Uses hierarchical parent-child chunking instead of basic fixed-size splitting
+- Retrieves relevant document sections with traceable source context
+- Provides a FastAPI backend for document ingestion, retrieval, and question answering
+- Designed with persistent storage, testing, and production-oriented architecture in mind
 
-**Tech:** FastAPI, LlamaIndex, LlamaParse, ChromaDB, Groq, React
+**Tech:** Python, FastAPI, Docling, SQLAlchemy, PostgreSQL, Vector Databases, RAG, LLMs, Docker
 
 ---
 
-### 🔹 [llm-tools-kit](https://github.com/danishali778/llm-tools-kit)
-A Python toolkit for building safe, reusable tools for LLM agents and function-calling workflows.
+### 🔹 [CommerceOps AI](https://github.com/danishali778/ecommerce_ai)
+An AI-powered e-commerce operations platform designed to automate store workflows, assist operational teams, and coordinate AI agents across orders, inventory, customer support, and business analytics.
 
 **Highlights:**
-- Typed tool schemas using Pydantic
-- Tool registry and executor
-- Gemini function declaration adapter
-- Utility tools for JSON, text processing, and local files
-- Secret redaction and safer tool execution patterns
+- Automates repetitive e-commerce and store-management workflows
+- Uses AI agents to reason about orders, inventory, support requests, and operational data
+- Supports human approval for sensitive or high-impact agent actions
+- Provides backend services for workflow execution, integrations, and task processing
+- Designed around multi-tenant access, role-based permissions, and auditability
+- Uses background workers for long-running and asynchronous operations
 
-**Tech:** Python, Pydantic, Pytest, Ruff
+**Tech:** Python, FastAPI, LangGraph, PostgreSQL, SQLAlchemy, Redis, Celery, React/Next.js, TypeScript, Docker
 
 ---
 
-### 🔹 [BDPP-IoT Secure Data Transaction](https://github.com/danishali778/BDPP-IoT-Secure-Data-Transaction)
-A blockchain-based privacy-preserving IoT data transaction framework combining smart contracts, IPFS, encryption, access control, and ML-based pricing.
 
-**Highlights:**
-- Designed a secure IoT data-sharing workflow using blockchain and IPFS
-- Implemented privacy-preserving access-control and revocation concepts
-- Added CKKS-style error-bound reporting for encrypted computation reliability
-- Used ML-based dynamic pricing for IoT data transactions
-- Generated experimental results, ablation studies, and architecture diagrams
-
-**Tech:** Python, Solidity, Ganache, IPFS, TenSEAL/CKKS, Machine Learning
 
 ## 🎯 Current Focus
 
